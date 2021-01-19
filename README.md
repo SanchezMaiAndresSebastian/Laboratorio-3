@@ -116,13 +116,6 @@ __5.2.2__ Medición de corriente aplicando superposición.
 Tabla 2
 
 
-
-
-
-En el circuito que hemos construido se ve como la unión de diferentes elementos eléctricos en un circuito eléctrico, el cual primero se pone la fuente de voltaje de corriente continua se une con alambres el color perteneciente a su fuente con el protoboard el cual es el positivo (rojo) y el negativo (negro)
-Después se pone con el resistor en la parte de los nodos en la columna que sea necesario para que tenga un paso de corriente
-Terminamos midiendo el voltaje de cada resistor 
-
 ### 6.	 DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
  - Siempre tener conectado a una fuente de corriente continua
