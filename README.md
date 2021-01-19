@@ -36,13 +36,13 @@ Ahora si se toma un valor diferente para la fuente de corriente Cb, este produci
  ###### _FIGURA 3_
 Si se toman valores apropiados para Ca y Cb, de manera que la suma de ellos se constituya en el valor de C original, se tendrá que:
 
-![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/6.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/4.png)
 
  ###### _FIGURA 4_
  
 Es de esta forma que se la tensión particular producida sobre una resistencia o una conductancia, por ejemplo (K1), se puede ver como la suma de dos tensiones particulares, cada uno de ellos producido por una fuente de tensión diferente.
  
- ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/5.png)
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/5.png)
  
  ###### _FIGURA 5_
 Este es el principio de superposición y se puede extender a un número cualquiera   de combinaciones. La consecuencia más importante de la linealidad es la superposición. Es esencial desde el punto de vista conceptual y como método de cálculo. El principio de superposición como: La respuesta (una corriente o tensión) en un circuito lineal que tiene más de una fuente independiente se obtiene sumando las respuestas ocasionadas por las fuentes independientes separadas que actúan solas. Esto es, la respuesta a la acción   simultánea de varios estímulos es igual a la suma algebraica de las respuestas de cada estímulo individual. 
@@ -67,7 +67,7 @@ Este es el principio de superposición y se puede extender a un número cualquie
  
  - Diagramas esquemáticos.
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/7.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/7.png)
 
 
 
@@ -90,13 +90,13 @@ Este es el principio de superposición y se puede extender a un número cualquie
 ### 5.	EXPLICACIÓN
 Armar el circuito
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/8.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/8.png)
 
 ###### _FIGURA 4_
 
 __5.1__ Calculos de forma teorica
 
-
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/12.png)
 
 - Calculo del error porcentual
 
@@ -106,13 +106,13 @@ __5.2__ Tabulacion de los datos
 
 __5.2.1__ Medición de voltaje aplicando superposición.
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/9.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/9.png)
 
 Tabla 1
 
 __5.2.2__ Medición de corriente aplicando superposición.
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/10.png) 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/10.png)
 Tabla 2
 
 
@@ -147,3 +147,5 @@ Floyd, T. (2007). Principios de circuitos electricos. Mexico: Pearson Educacion.
 
 R. (2001). Fisica II. Mexico: Pearson Educacion.
 ### 10.	 ANEXOS
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/11.png)
