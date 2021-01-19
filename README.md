@@ -96,6 +96,16 @@ Armar el circuito
 
 __5.1__ Calculos de forma teorica
 
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/13.jpeg)
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/14.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/15.png)
+
+![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/16.png)
+
+
+
 ![](https://github.com/SanchezMaiAndresSebastian/Laboratorio-3/blob/main/Foto/12.png)
 
 - Calculo del error porcentual
