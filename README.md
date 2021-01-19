@@ -87,16 +87,7 @@ Armar el circuito
 
 __5.1__ Calculos de forma teorica
 
-- Calcular la corriente en las mallas
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/14.png) 
 
-- Calcular el voltaje 
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/15.png)
-
-- Calcular La corriente de los nodos
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/16.png) 
 
 - Calculo del error porcentual
 
@@ -104,37 +95,19 @@ __5.1__ Calculos de forma teorica
 
 __5.2__ Tabulacion de los datos
 
-__5.2.1__ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito. 
+__5.2.1__ Medición de voltaje aplicando superposición.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/18.png) 
 
 Tabla 1
 
-__5.2.2__ Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,
-considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con
-signo negativo. Anote los resultados en la tabla 1
+__5.2.2__ Medición de corriente aplicando superposición.
 
 ![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/19.png) 
 
 Tabla 2
 
-__5.2.3__ Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando
-con signo positivo las corrientes que entran al nodo y con signo negativo las que salen
-del nodo. Anote los resultados en la tabla 2.
 
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/20.png) 
-
-Tabla 3
-
-__5.2.4__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
-analíticamente y concluya al respecto.
-
-![](https://github.com/SanchezMaiAndresSebastian/Informe-laboratorio/blob/main/Fotos/21.png) 
-
-Tabla 4
-
-__5.2.5__ Compare los resultados medidos con los valores obtenidos al analizar el circuito
-analíticamente y concluya al respecto.
 
 
 
